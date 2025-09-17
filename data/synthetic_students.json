@@ -1,0 +1,702 @@
+[
+  {
+    "ID": 1,
+    "Name": "Aria Allen",
+    "Age": 24,
+    "Department": "ME",
+    "Marks": 71
+  },
+  {
+    "ID": 2,
+    "Name": "Sophia Thompson",
+    "Age": 21,
+    "Department": "ECE",
+    "Marks": 78
+  },
+  {
+    "ID": 3,
+    "Name": "Isabella Evans",
+    "Age": 22,
+    "Department": "ECE",
+    "Marks": 88
+  },
+  {
+    "ID": 4,
+    "Name": "Ursula Carter",
+    "Age": 24,
+    "Department": "IT",
+    "Marks": 91
+  },
+  {
+    "ID": 5,
+    "Name": "Chloe Roberts",
+    "Age": 20,
+    "Department": "ECE",
+    "Marks": 71
+  },
+  {
+    "ID": 6,
+    "Name": "Emma Perez",
+    "Age": 25,
+    "Department": "ECE",
+    "Marks": 43
+  },
+  {
+    "ID": 7,
+    "Name": "Zane Roberts",
+    "Age": 22,
+    "Department": "ECE",
+    "Marks": 69
+  },
+  {
+    "ID": 8,
+    "Name": "Olivia Roberts",
+    "Age": 22,
+    "Department": "IT",
+    "Marks": 76
+  },
+  {
+    "ID": 9,
+    "Name": "Thomas Davis",
+    "Age": 24,
+    "Department": "ECE",
+    "Marks": 62
+  },
+  {
+    "ID": 10,
+    "Name": "Logan Harris",
+    "Age": 19,
+    "Department": "ME",
+    "Marks": 78
+  },
+  {
+    "ID": 11,
+    "Name": "Amelia Lewis",
+    "Age": 20,
+    "Department": "IT",
+    "Marks": 84
+  },
+  {
+    "ID": 12,
+    "Name": "Michael Scott",
+    "Age": 24,
+    "Department": "ME",
+    "Marks": 54
+  },
+  {
+    "ID": 13,
+    "Name": "Harper Campbell",
+    "Age": 20,
+    "Department": "IT",
+    "Marks": 82
+  },
+  {
+    "ID": 14,
+    "Name": "Ethan Anderson",
+    "Age": 20,
+    "Department": "ECE",
+    "Marks": 68
+  },
+  {
+    "ID": 15,
+    "Name": "Mason Green",
+    "Age": 25,
+    "Department": "ME",
+    "Marks": 75
+  },
+  {
+    "ID": 16,
+    "Name": "James Collins",
+    "Age": 22,
+    "Department": "IT",
+    "Marks": 52
+  },
+  {
+    "ID": 17,
+    "Name": "Amelia Wright",
+    "Age": 21,
+    "Department": "CSE",
+    "Marks": 71
+  },
+  {
+    "ID": 18,
+    "Name": "Harper Evans",
+    "Age": 25,
+    "Department": "ECE",
+    "Marks": 46
+  },
+  {
+    "ID": 19,
+    "Name": "Abigail Walker",
+    "Age": 25,
+    "Department": "IT",
+    "Marks": 98
+  },
+  {
+    "ID": 20,
+    "Name": "Adam Roberts",
+    "Age": 20,
+    "Department": "CSE",
+    "Marks": 90
+  },
+  {
+    "ID": 21,
+    "Name": "Jack Clark",
+    "Age": 23,
+    "Department": "IT",
+    "Marks": 61
+  },
+  {
+    "ID": 22,
+    "Name": "Abigail Walker",
+    "Age": 22,
+    "Department": "CSE",
+    "Marks": 67
+  },
+  {
+    "ID": 23,
+    "Name": "Mia White",
+    "Age": 19,
+    "Department": "ECE",
+    "Marks": 41
+  },
+  {
+    "ID": 24,
+    "Name": "Mason Williams",
+    "Age": 25,
+    "Department": "ME",
+    "Marks": 81
+  },
+  {
+    "ID": 25,
+    "Name": "Mia Gonzalez",
+    "Age": 21,
+    "Department": "CSE",
+    "Marks": 84
+  },
+  {
+    "ID": 26,
+    "Name": "Ava Hernandez",
+    "Age": 23,
+    "Department": "IT",
+    "Marks": 96
+  },
+  {
+    "ID": 27,
+    "Name": "Jack Robinson",
+    "Age": 23,
+    "Department": "ECE",
+    "Marks": 92
+  },
+  {
+    "ID": 28,
+    "Name": "Mia Smith",
+    "Age": 19,
+    "Department": "CSE",
+    "Marks": 45
+  },
+  {
+    "ID": 29,
+    "Name": "Lily Thomas",
+    "Age": 25,
+    "Department": "IT",
+    "Marks": 67
+  },
+  {
+    "ID": 30,
+    "Name": "Ava Adams",
+    "Age": 21,
+    "Department": "IT",
+    "Marks": 67
+  },
+  {
+    "ID": 31,
+    "Name": "Noah Thomas",
+    "Age": 22,
+    "Department": "IT",
+    "Marks": 83
+  },
+  {
+    "ID": 32,
+    "Name": "Ethan Phillips",
+    "Age": 18,
+    "Department": "CSE",
+    "Marks": 83
+  },
+  {
+    "ID": 33,
+    "Name": "Willow Moore",
+    "Age": 21,
+    "Department": "CSE",
+    "Marks": 59
+  },
+  {
+    "ID": 34,
+    "Name": "Ella Thompson",
+    "Age": 19,
+    "Department": "CSE",
+    "Marks": 69
+  },
+  {
+    "ID": 35,
+    "Name": "Zane White",
+    "Age": 23,
+    "Department": "ME",
+    "Marks": 50
+  },
+  {
+    "ID": 36,
+    "Name": "Logan Moore",
+    "Age": 22,
+    "Department": "CSE",
+    "Marks": 97
+  },
+  {
+    "ID": 37,
+    "Name": "Quinn Miller",
+    "Age": 21,
+    "Department": "CSE",
+    "Marks": 94
+  },
+  {
+    "ID": 38,
+    "Name": "Frank Robinson",
+    "Age": 18,
+    "Department": "CSE",
+    "Marks": 67
+  },
+  {
+    "ID": 39,
+    "Name": "Oliver Anderson",
+    "Age": 18,
+    "Department": "ME",
+    "Marks": 64
+  },
+  {
+    "ID": 40,
+    "Name": "Mia Williams",
+    "Age": 20,
+    "Department": "CSE",
+    "Marks": 78
+  },
+  {
+    "ID": 41,
+    "Name": "Jack Anderson",
+    "Age": 20,
+    "Department": "IT",
+    "Marks": 72
+  },
+  {
+    "ID": 42,
+    "Name": "Quinn Miller",
+    "Age": 24,
+    "Department": "CSE",
+    "Marks": 40
+  },
+  {
+    "ID": 43,
+    "Name": "Max Taylor",
+    "Age": 19,
+    "Department": "IT",
+    "Marks": 96
+  },
+  {
+    "ID": 44,
+    "Name": "Mia Lee",
+    "Age": 25,
+    "Department": "IT",
+    "Marks": 66
+  },
+  {
+    "ID": 45,
+    "Name": "Michael Miller",
+    "Age": 21,
+    "Department": "IT",
+    "Marks": 96
+  },
+  {
+    "ID": 46,
+    "Name": "Michael Scott",
+    "Age": 21,
+    "Department": "ME",
+    "Marks": 91
+  },
+  {
+    "ID": 47,
+    "Name": "Ella Campbell",
+    "Age": 25,
+    "Department": "ME",
+    "Marks": 52
+  },
+  {
+    "ID": 48,
+    "Name": "Ava Clark",
+    "Age": 24,
+    "Department": "ME",
+    "Marks": 80
+  },
+  {
+    "ID": 49,
+    "Name": "Isabella Hall",
+    "Age": 23,
+    "Department": "CSE",
+    "Marks": 42
+  },
+  {
+    "ID": 50,
+    "Name": "Michael Wright",
+    "Age": 23,
+    "Department": "IT",
+    "Marks": 78
+  },
+  {
+    "ID": 51,
+    "Name": "David Smith",
+    "Age": 24,
+    "Department": "ME",
+    "Marks": 45
+  },
+  {
+    "ID": 52,
+    "Name": "Ava Phillips",
+    "Age": 23,
+    "Department": "ME",
+    "Marks": 47
+  },
+  {
+    "ID": 53,
+    "Name": "Alex Lee",
+    "Age": 20,
+    "Department": "CSE",
+    "Marks": 66
+  },
+  {
+    "ID": 54,
+    "Name": "Abigail Taylor",
+    "Age": 21,
+    "Department": "ME",
+    "Marks": 48
+  },
+  {
+    "ID": 55,
+    "Name": "Xavier Evans",
+    "Age": 24,
+    "Department": "CSE",
+    "Marks": 76
+  },
+  {
+    "ID": 56,
+    "Name": "Willow Rodriguez",
+    "Age": 21,
+    "Department": "ECE",
+    "Marks": 72
+  },
+  {
+    "ID": 57,
+    "Name": "Ava Miller",
+    "Age": 25,
+    "Department": "ME",
+    "Marks": 90
+  },
+  {
+    "ID": 58,
+    "Name": "Eva Thomas",
+    "Age": 18,
+    "Department": "ECE",
+    "Marks": 81
+  },
+  {
+    "ID": 59,
+    "Name": "Isabella Lewis",
+    "Age": 20,
+    "Department": "CSE",
+    "Marks": 83
+  },
+  {
+    "ID": 60,
+    "Name": "David Moore",
+    "Age": 22,
+    "Department": "IT",
+    "Marks": 63
+  },
+  {
+    "ID": 61,
+    "Name": "Michael Miller",
+    "Age": 20,
+    "Department": "ME",
+    "Marks": 54
+  },
+  {
+    "ID": 62,
+    "Name": "Mia White",
+    "Age": 24,
+    "Department": "CSE",
+    "Marks": 98
+  },
+  {
+    "ID": 63,
+    "Name": "Ethan Anderson",
+    "Age": 22,
+    "Department": "IT",
+    "Marks": 93
+  },
+  {
+    "ID": 64,
+    "Name": "Charlotte Allen",
+    "Age": 18,
+    "Department": "IT",
+    "Marks": 71
+  },
+  {
+    "ID": 65,
+    "Name": "Mason Williams",
+    "Age": 24,
+    "Department": "ECE",
+    "Marks": 71
+  },
+  {
+    "ID": 66,
+    "Name": "Michael Walker",
+    "Age": 19,
+    "Department": "CSE",
+    "Marks": 63
+  },
+  {
+    "ID": 67,
+    "Name": "Evelyn Martinez",
+    "Age": 21,
+    "Department": "IT",
+    "Marks": 80
+  },
+  {
+    "ID": 68,
+    "Name": "Thomas Nelson",
+    "Age": 18,
+    "Department": "ME",
+    "Marks": 91
+  },
+  {
+    "ID": 69,
+    "Name": "Amelia Clark",
+    "Age": 21,
+    "Department": "ME",
+    "Marks": 88
+  },
+  {
+    "ID": 70,
+    "Name": "David Smith",
+    "Age": 23,
+    "Department": "ECE",
+    "Marks": 88
+  },
+  {
+    "ID": 71,
+    "Name": "Eva Hernandez",
+    "Age": 19,
+    "Department": "IT",
+    "Marks": 97
+  },
+  {
+    "ID": 72,
+    "Name": "Frank Hernandez",
+    "Age": 19,
+    "Department": "CSE",
+    "Marks": 91
+  },
+  {
+    "ID": 73,
+    "Name": "Noah Mitchell",
+    "Age": 18,
+    "Department": "ME",
+    "Marks": 51
+  },
+  {
+    "ID": 74,
+    "Name": "Quinn Miller",
+    "Age": 19,
+    "Department": "IT",
+    "Marks": 78
+  },
+  {
+    "ID": 75,
+    "Name": "Liam Baker",
+    "Age": 22,
+    "Department": "IT",
+    "Marks": 41
+  },
+  {
+    "ID": 76,
+    "Name": "Olivia Rodriguez",
+    "Age": 19,
+    "Department": "ECE",
+    "Marks": 42
+  },
+  {
+    "ID": 77,
+    "Name": "Eva Thomas",
+    "Age": 21,
+    "Department": "ME",
+    "Marks": 88
+  },
+  {
+    "ID": 78,
+    "Name": "Ivy Anderson",
+    "Age": 21,
+    "Department": "ME",
+    "Marks": 76
+  },
+  {
+    "ID": 79,
+    "Name": "Mia Moore",
+    "Age": 24,
+    "Department": "CSE",
+    "Marks": 88
+  },
+  {
+    "ID": 80,
+    "Name": "Abigail Walker",
+    "Age": 21,
+    "Department": "ME",
+    "Marks": 95
+  },
+  {
+    "ID": 81,
+    "Name": "Frank Robinson",
+    "Age": 24,
+    "Department": "CSE",
+    "Marks": 56
+  },
+  {
+    "ID": 82,
+    "Name": "Charlotte Adams",
+    "Age": 21,
+    "Department": "ME",
+    "Marks": 98
+  },
+  {
+    "ID": 83,
+    "Name": "Mason Thomas",
+    "Age": 22,
+    "Department": "ECE",
+    "Marks": 88
+  },
+  {
+    "ID": 84,
+    "Name": "Harper Edwards",
+    "Age": 25,
+    "Department": "ME",
+    "Marks": 41
+  },
+  {
+    "ID": 85,
+    "Name": "Amelia Thomas",
+    "Age": 24,
+    "Department": "CSE",
+    "Marks": 41
+  },
+  {
+    "ID": 86,
+    "Name": "Abigail Taylor",
+    "Age": 20,
+    "Department": "CSE",
+    "Marks": 67
+  },
+  {
+    "ID": 87,
+    "Name": "Henry Nelson",
+    "Age": 23,
+    "Department": "ECE",
+    "Marks": 93
+  },
+  {
+    "ID": 88,
+    "Name": "Adam Green",
+    "Age": 18,
+    "Department": "ME",
+    "Marks": 62
+  },
+  {
+    "ID": 89,
+    "Name": "Evelyn Evans",
+    "Age": 21,
+    "Department": "ME",
+    "Marks": 76
+  },
+  {
+    "ID": 90,
+    "Name": "Yara Collins",
+    "Age": 19,
+    "Department": "ECE",
+    "Marks": 71
+  },
+  {
+    "ID": 91,
+    "Name": "Matthew Evans",
+    "Age": 25,
+    "Department": "ME",
+    "Marks": 72
+  },
+  {
+    "ID": 92,
+    "Name": "Ivy Adams",
+    "Age": 21,
+    "Department": "ME",
+    "Marks": 40
+  },
+  {
+    "ID": 93,
+    "Name": "Thomas White",
+    "Age": 19,
+    "Department": "CSE",
+    "Marks": 58
+  },
+  {
+    "ID": 94,
+    "Name": "Aria Parker",
+    "Age": 23,
+    "Department": "ME",
+    "Marks": 41
+  },
+  {
+    "ID": 95,
+    "Name": "Daniel Turner",
+    "Age": 23,
+    "Department": "ME",
+    "Marks": 92
+  },
+  {
+    "ID": 96,
+    "Name": "Harper Wilson",
+    "Age": 23,
+    "Department": "ECE",
+    "Marks": 83
+  },
+  {
+    "ID": 97,
+    "Name": "Logan Harris",
+    "Age": 19,
+    "Department": "ECE",
+    "Marks": 65
+  },
+  {
+    "ID": 98,
+    "Name": "Thomas Anderson",
+    "Age": 21,
+    "Department": "IT",
+    "Marks": 71
+  },
+  {
+    "ID": 99,
+    "Name": "Charlotte Rodriguez",
+    "Age": 23,
+    "Department": "CSE",
+    "Marks": 45
+  },
+  {
+    "ID": 100,
+    "Name": "Eva Walker",
+    "Age": 22,
+    "Department": "ME",
+    "Marks": 71
+  }
+]
