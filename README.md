@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Student Dashboard
+
+## Overview
+
+This is a web application built with Next.js that serves as a student dashboard. It provides a clean and interactive way to view student data, including a searchable table and a visual representation of average marks by department using a bar chart.
+
+## Key Features
+
+* **Student Data Table:** Displays a complete list of student records, including ID, name, age, department, and marks.
+* **Search Functionality:** A dynamic search bar allows users to quickly filter student data by name.
+* **Departmental Insights:** A bar chart visualizes the average marks for each department, providing a quick and clear overview of performance.
+* **Responsive Design:** The dashboard is designed to be accessible and easy to use on different devices.
 
 ## Getting Started
 
-First, run the development server:
+Follow these steps to set up and run the project locally.
+
+### Prerequisites
+
+You need to have Node.js and npm (or yarn) installed on your machine.
+
+* [Node.js](https://nodejs.org/)
+* [npm](https://www.npmjs.com/)
+
+### Running the Application
+
+To run the application in development mode, use the following command:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The application will start on http://localhost:3000. Open your browser and navigate to this address to view the dashboard.
+
+Project Structure
+app/page.js: The main page component that assembles the dashboard.
+
+components/StudentTable.js: A reusable component for the student data table with search functionality.
+
+components/DepartmentMarksBarChart.js: A reusable component for the bar chart visualizing department marks.
+
+data/synthetic_students.json: The JSON file containing all the student data.
+
+styles/globals.css: The stylesheet for the entire application.
+
+Technologies Used
+Next.js: A React framework for building fast and scalable web applications.
+
+React: A JavaScript library for building user interfaces.
+
+Chart.js: A flexible JavaScript charting library for visualizing data.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
